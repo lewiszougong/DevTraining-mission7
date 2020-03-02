@@ -1,0 +1,20 @@
+2020-03-02 14:27:53,927 INFO c.D.M.Mission7Application [main] Starting Mission7Application on CPX-FGDTD0OJW62 with PID 6148 (started by wah.wai.kwong in C:\Users\wah.wai.kwong\OneDrive - Accenture\LearningSpringBoot\DevTraining\Mission7)
+2020-03-02 14:27:53,946 DEBUG c.D.M.Mission7Application [main] Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-02 14:27:53,947 INFO c.D.M.Mission7Application [main] No active profile set, falling back to default profiles: default
+2020-03-02 14:27:57,022 INFO c.D.M.Mission7Application [main] Started Mission7Application in 3.711 seconds (JVM running for 6.193)
+2020-03-02 14:27:57,024 DEBUG c.D.M.Mission7Application [main] debugging
+2020-03-02 14:28:19,000 INFO c.D.M.Mission7Application [main] Starting Mission7Application on CPX-FGDTD0OJW62 with PID 18904 (started by wah.wai.kwong in C:\Users\wah.wai.kwong\OneDrive - Accenture\LearningSpringBoot\DevTraining\Mission7)
+2020-03-02 14:28:19,012 DEBUG c.D.M.Mission7Application [main] Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-02 14:28:19,013 INFO c.D.M.Mission7Application [main] No active profile set, falling back to default profiles: default
+2020-03-02 14:28:21,745 INFO c.D.M.Mission7Application [main] Started Mission7Application in 3.206 seconds (JVM running for 5.492)
+2020-03-02 14:28:21,747 INFO c.D.M.Mission7Application [main] Main is running
+2020-03-02 14:28:21,747 DEBUG c.D.M.Mission7Application [main] debugging
+2020-03-02 14:30:32,467 DEBUG c.D.M.HelloWorld [http-nio-8080-exec-2] Programme is running
+2020-03-02 14:30:32,468 DEBUG c.D.M.HelloWorld [http-nio-8080-exec-2] debugging
+2020-03-02 14:30:32,468 INFO c.D.M.HelloWorld [http-nio-8080-exec-2] Method is running
+2020-03-02 14:31:03,141 INFO c.D.M.Mission7Application [main] Starting Mission7Application on CPX-FGDTD0OJW62 with PID 8672 (started by wah.wai.kwong in C:\Users\wah.wai.kwong\OneDrive - Accenture\LearningSpringBoot\DevTraining\Mission7)
+2020-03-02 14:31:03,155 DEBUG c.D.M.Mission7Application [main] Running with Spring Boot v2.2.5.RELEASE, Spring v5.2.4.RELEASE
+2020-03-02 14:31:03,156 INFO c.D.M.Mission7Application [main] No active profile set, falling back to default profiles: default
+2020-03-02 14:31:05,877 INFO c.D.M.Mission7Application [main] Started Mission7Application in 3.203 seconds (JVM running for 5.731)
+2020-03-02 14:31:05,880 INFO c.D.M.Mission7Application [main] Main is running
+2020-03-02 14:31:05,880 DEBUG c.D.M.Mission7Application [main] debugging
